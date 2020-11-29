@@ -1,9 +1,10 @@
 ---
 title: Paulo Da Fonseca
 role: PhD in Economics
-avatar_filename: formatura-aisha-2.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: 72572256_10220386697360211_2757518043692138496_o.jpg
+bio: My research interests are in Macroeconomics; Fiscal policy and monetary
+  policy and its interactions; Dynamic stochastic general equilibrium (DSGE)
+  models; Heterogeneous agents New Keynesian models; Agent-based modeling.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -11,16 +12,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: paulovictordafonseca@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://twitter.com/pvdafonseca
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/paulo-victor-da-fonseca-613a98191/
 organizations:
   - name: Stanford University
     url: ""
