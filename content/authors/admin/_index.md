@@ -36,7 +36,7 @@ education:
     - course: BSc in Economics
       institution: Federal University of Santa Catarina
       year: 2012
-email: ""
+email: paulovictordafonseca@gmail.com
 superuser: true
 user_groups:
   - Researchers
@@ -47,4 +47,4 @@ I hold a Ph.D. in Economics from Federal University of Santa Catarina (UFSC) - B
 
 My main research interests are in: Macroeconomics; Fiscal policy and monetary policy and its interactions; Dynamic stochastic general equilibrium (DSGE) models; Heterogeneous agents New Keynesian models; Agent-based modeling. 
 
-From 2018 to 2019 I was a visiting Ph.D. student at the Università degli Studi di Milano-Bicocca under the supervision of [Alice Albonico](https://sites.google.com/view/alice-albonico).
+From 2018 to 2019 I was a visiting Ph.D. student at the [Università degli Studi di Milano-Bicocca](https://dems.unimib.it/en) under the supervision of [Alice Albonico](https://sites.google.com/view/alice-albonico).
