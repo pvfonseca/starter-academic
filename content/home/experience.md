@@ -34,8 +34,8 @@ experience:
     * Analysing
     * Modelling
     * Deploying
-  location: California
-  title: CEO
+  location: Florianópolis, Brazil
+  title: Researcher
 - company: University X
   company_url: ""
   date_end: "2016-12-31"
