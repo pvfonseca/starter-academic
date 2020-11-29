@@ -36,7 +36,7 @@ experience:
   company_url: ""
   date_end: "2012-03-01"
   date_start: "2010-03-01"
-  description: Research under the project Migratory dynamics and complexity an agent-based computational approach.
+  description: Research under the project ``Migratory dynamics and complexity an agent-based computational approach''.
   location: Florianópolis, Brazil
   title: Scientific initiation fellow
 ---
