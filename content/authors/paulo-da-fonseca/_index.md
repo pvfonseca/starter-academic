@@ -20,8 +20,8 @@ social:
     icon_pack: fab
     icon: linkedin
   - link: http://lattes.cnpq.br/9796019185681143
-    icon_pack: lattes
-    icon: custom
+    icon_pack: custom
+    icon: lattes
 organizations:
   - name: Federal University of Santa Catarina
     url: https://ppgeco.ufsc.br/
