@@ -31,7 +31,7 @@ social:
     
 organizations:
   - name: Federal University of Santa Catarina
-    url: https://ppgeco.ufsc.br/en/
+    url: https://ppgeco.ufsc.br/
 education:
   courses:
     - course: PhD in Economics
