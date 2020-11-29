@@ -25,6 +25,9 @@ social:
   - icon: lattes
     icon_pack: ai
     link: http://lattes.cnpq.br/9796019185681143
+  - icon: cv
+    icon_pack: ai
+    link: https://github.com/pvfonseca/cv/blob/main/(2020)%20Da%20Fonseca%20-%20Curriculum%20Vitae.pdf
     
 organizations:
   - name: Federal University of Santa Catarina
