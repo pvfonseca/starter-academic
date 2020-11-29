@@ -43,7 +43,7 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I hold a Ph.D. in Economics from Federal University of Santa Catarina (UFSC) - Brazil. My dissertation is entitled "Three essays on monetary and fiscal policy interactions" and was supervised by Jaylson Jair da Silveira and [Guilherme Valle Moura](https://sites.google.com/site/guilhermevallemoura/).
+I hold a Ph.D. in Economics from Federal University of Santa Catarina (UFSC) - Brazil. My dissertation is entitled "Three essays on monetary and fiscal policy interactions" and was supervised by [Jaylson Jair da Silveira](http://lattes.cnpq.br/8638236111895553) and [Guilherme Valle Moura](https://sites.google.com/site/guilhermevallemoura/).
 
 My main research interests are in: Macroeconomics; Fiscal policy and monetary policy and its interactions; Dynamic stochastic general equilibrium (DSGE) models; Heterogeneous agents New Keynesian models; Agent-based modeling. 
 
