@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/paulo-victor-da-fonseca-613a98191/
   - icon: lattes
-    icon_pack: custom
+    icon_pack: ai
     link: http://lattes.cnpq.br/9796019185681143
     
 organizations:
