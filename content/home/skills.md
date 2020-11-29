@@ -23,6 +23,11 @@ subtitle = ""
   icon = "matlab"
   icon_pack = "custom"
   name = "MATLAB"
+  
+[[feature]]
+  icon = "dynare"
+  icon_pack = "custom"
+  name = "Dynare"
 
 [[feature]]
   icon = "r-project"
