@@ -29,7 +29,7 @@ experience:
   company_url: "https://fiesc.com.br"
   date_end: ""
   date_start: "2015-03-01"
-  description: Researcher at the Sectoral Strategic Routes Project
+  description: Researcher at the [Sectoral Strategic Routes Project](https://www.observatoriofiesc.com.br/observatorio)
   location: Florianópolis, Brazil
   title: Researcher
 - company: University X
