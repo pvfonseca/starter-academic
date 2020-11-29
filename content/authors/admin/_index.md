@@ -1,15 +1,16 @@
 ---
 title: Paulo Da Fonseca
 role: PhD in Economics
-avatar_filename: 72572256_10220386697360211_2757518043692138496_o.jpg
+avatar_filename: avatar.jpg
 bio: My research interests are in Macroeconomics; Fiscal policy and monetary
   policy and its interactions; Dynamic stochastic general equilibrium (DSGE)
   models; Heterogeneous agents New Keynesian models; Agent-based modeling.
 interests:
   - Macroeconomics
-  - Fiscal policy and monetary policy and its interactions
-  - Dynamic stochastic general equilibrium (DSGE) models
-  - Heterogeneous agents New Keynesian models
+  - Fiscal policy
+  - Monetary policy
+  - DSGE models
+  - Heterogeneous agents models
   - Agent-based modeling
 social:
   - icon: envelope
