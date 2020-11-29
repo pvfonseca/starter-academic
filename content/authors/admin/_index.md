@@ -6,9 +6,11 @@ bio: My research interests are in Macroeconomics; Fiscal policy and monetary
   policy and its interactions; Dynamic stochastic general equilibrium (DSGE)
   models; Heterogeneous agents New Keynesian models; Agent-based modeling.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Macroeconomics
+  - Fiscal policy and monetary policy and its interactions
+  - Dynamic stochastic general equilibrium (DSGE) models
+  - Heterogeneous agents New Keynesian models
+  - Agent-based modeling
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,19 +22,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/paulo-victor-da-fonseca-613a98191/
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Federal University of Santa Catarina
+    url: https://ppgeco.ufsc.br/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Economics
+      institution: Federal University of Santa Catarina
+      year: 2020
+    - course: MSc. in Economics
+      institution: Federal University of Santa Catarina
+      year: 2015
+    - course: BSc in Economics
+      institution: Federal University of Santa Catarina
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 user_groups:
