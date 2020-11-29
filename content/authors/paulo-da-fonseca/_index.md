@@ -19,6 +19,9 @@ social:
   - link: https://www.linkedin.com/in/paulo-victor-da-fonseca-613a98191/
     icon_pack: fab
     icon: linkedin
+  - link: http://lattes.cnpq.br/9796019185681143
+    icon_pack: lattes
+    icon: custom
 organizations:
   - name: Federal University of Santa Catarina
     url: https://ppgeco.ufsc.br/
