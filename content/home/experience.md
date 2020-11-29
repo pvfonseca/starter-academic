@@ -26,7 +26,7 @@ date_format: Jan 2006
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
 - company: Federation of Industries of Santa Catarina
-  company_url: "https://fiesc.com.br"
+  company_url: ""
   date_end: "01-03-2016"
   date_start: "01-05-2015"
   description: Researcher at the Sectoral Stragetic Routes Project.
