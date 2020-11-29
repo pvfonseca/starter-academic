@@ -28,12 +28,8 @@ experience:
 - company: Federation of Industries of Santa Catarina
   company_url: "https://fiesc.com.br"
   date_end: ""
-  date_start: "2017-01-01"
-  description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
+  date_start: "2015-03-01"
+  description: Researcher at the Sectoral Strategic Routes Project
   location: Florianópolis, Brazil
   title: Researcher
 - company: University X
