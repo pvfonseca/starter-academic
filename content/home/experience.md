@@ -27,16 +27,16 @@ date_format: Jan 2006
 experience:
 - company: Federation of Industries of Santa Catarina
   company_url: "https://fiesc.com.br"
-  date_end: ""
+  date_end: "2016-05-01"
   date_start: "2015-03-01"
-  description: Researcher at the [Sectoral Strategic Routes Project](https://www.observatoriofiesc.com.br/observatorio)
+  description: Researcher at the [Sectoral Strategic Routes Project](https://www.observatoriofiesc.com.br/observatorio).
   location: Florianópolis, Brazil
   title: Researcher
-- company: University X
+- company: Federal University of Santa Catarina
   company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+  date_end: "2012-03-01"
+  date_start: "2010-03-01"
+  description: Research under the project "Migratory dynamics and complexity: an agent-based computational approach".
+  location: Florianópolis, Brazil
+  title: Scientific initiation fellow
 ---
