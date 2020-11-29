@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Florianópolis, Brazil"
   date_start = "2015"
   date_end = "2016"
-  description = """Researcher at the Sectoral Strategic Routes Project from 2015 to 2016."""
+  description = "Researcher at the Sectoral Strategic Routes Project from 2015 to 2016."
+  """
 #  Responsibilities include:
   
 #  * Analysing
