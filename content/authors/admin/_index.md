@@ -7,8 +7,9 @@ bio: My research interests are in Macroeconomics; Fiscal policy and monetary
   models; Heterogeneous agents New Keynesian models; Agent-based modeling.
 interests:
   - Macroeconomics
-  - Fiscal policy and monetary policy and its interactions
-  - Dynamic stochastic general equilibrium (DSGE) models
+  - Fiscal policy
+  - Monetary policy
+  - DSGE models
   - Heterogeneous agents New Keynesian models
   - Agent-based modeling
 social:
