@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academic Template"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = 
+# hero_media = 
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -36,15 +36,8 @@ hero_media =
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
   
 # Note. An optional note to show underneath the links.
-# [cta_note]
-#  label = '<a class="js-github-release" href="https://wowchemy.com/updates" data-repo="wowchemy/wowchemy-hugo-modules">Latest release<!-- V --></a>'
 +++
 
 **This page is under construction, in the meantime please check my other personal page at:** [sites.google.com/view/paulovfonseca](https://sites.google.com/view/paulovfonseca)
