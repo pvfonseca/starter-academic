@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    color: "navy"
+    color: "teal"
 #    image: headers/bubbles-wide.jpg
 #    image_darken: 0.6
 #    image_parallax: true
