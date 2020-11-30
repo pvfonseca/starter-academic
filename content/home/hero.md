@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = 
+title = " "
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 # hero_media = 
@@ -40,4 +40,4 @@ title =
 # Note. An optional note to show underneath the links.
 +++
 
-**This page is under construction, in the meantime please check my other personal page at:** [sites.google.com/view/paulovfonseca](https://sites.google.com/view/paulovfonseca)
+**This homepage is still under construction, please check my other personal webpage at: [sites.google.com/view/paulovfonseca](https://sites.google.com/view/paulovfonseca)
