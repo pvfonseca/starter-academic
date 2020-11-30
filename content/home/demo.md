@@ -24,9 +24,9 @@ design:
 #    image_parallax: true
 #    image_position: center
 #    image_size: cover
-#    text_color_light: true
+    text_color_light: true
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-**This homepage is still under construction, please check my other personal webpage at:** [sites.google.com/view/paulovfonseca](https://sites.google.com/view/paulovfonseca)
+This homepage is still under construction, please check my other personal webpage at: [sites.google.com/view/paulovfonseca](https://sites.google.com/view/paulovfonseca)
